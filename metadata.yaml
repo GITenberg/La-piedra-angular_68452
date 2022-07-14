@@ -1,0 +1,36 @@
+_repo: La-piedra-angular_68452
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pardo Bazán, Emilia, condesa de
+    aliases:
+    - Bazán, Emilia, condesa de Pardo
+    - Bazán, Emilia Pardo, condesa de
+    - Pardo Bazan, Emilia, condesa de
+    birthdate: 1852
+    deathdate: 1921
+    gutenberg_agent_id: '6152'
+    url: http://www.gutenberg.org/2009/agents/6152
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
+    - https://en.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
+description: ''
+gutenberg_issued: '2022-07-03'
+identifiers:
+  gutenberg: '68452'
+language: es
+pgterms:marc904: https://archive.org/details/lapiedraangularn00pard/page/2/mode/2up
+pgterms:marc905: 20210716074129pardobazn
+pgterms:marc906: '1891'
+pgterms:marc907: es
+production_note: Nahum Maso i Carcases and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: Spain :Imprenta de A. Pérez Dubrull,1891.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La piedra angular
+url: http://www.gutenberg.org/ebooks/68452
